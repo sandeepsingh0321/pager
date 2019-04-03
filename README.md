@@ -1,4 +1,4 @@
-# pager
+
 # Assumptions:
     1. service name is of the format: xxx-[a-zA-Z]+
     2. service instance-id is of format [a-zA-Z0-9]+
