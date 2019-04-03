@@ -1,6 +1,3 @@
-# To stop Dockter generating this file and start editing it yourself,
-# rename it to "Dockerfile".
-
 # This tells Docker which base image to use.
 FROM python:3.7-alpine
 
